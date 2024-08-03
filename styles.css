@@ -1,13 +1,13 @@
 #outer {
   height: 200px;
-  width: 200px;
+  width: 300px;
   border-radius: 50%;
   background: red;
 }
 
 #middle {
   height: 150px;
-  width: 150px;
+  width: 200px;
   border-radius: 50%;
   background: blue;
   position: relative;
@@ -19,7 +19,7 @@
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  background: green;
+  background: rgb(128, 0, 128);
   position: relative;
   top: 25px;
   left: 25px;
